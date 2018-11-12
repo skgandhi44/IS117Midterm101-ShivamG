@@ -5,3 +5,48 @@ body{
 #wrapper{
     width: 960px;
 }
+
+#top{
+    height: 135px;
+    line-height: 135px;
+}
+
+#companyLogo{
+    height: 135px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+/* marginCenter will bring the wrapper and content inside in the center */
+marginCenter{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.wrapperPaddingRight{
+    padding-right: 31px;
+}
+
+/* floatLeft will bring the menu next to the logo */
+.floatLeft{
+    float: left;
+}
+
+.clearMargin{
+    margin: 0px;
+}
+
+.clearPadding{
+    margin: 0px;
+}
+
+/* displayInline will bring the home and about file on one line */
+.displayInline{
+    display: inline;
+}
