@@ -1,0 +1,7 @@
+body{
+    overflow: scroll;
+}
+
+#wrapper{
+    width: 960px;
+}
