@@ -24,7 +24,7 @@ a:hover{
 }
 
 /* marginCenter will bring the wrapper and content inside in the center */
-marginCenter{
+.marginCenter{
     margin-right: auto;
     margin-left: auto;
 }
@@ -49,4 +49,39 @@ marginCenter{
 /* displayInline will bring the home and about file on one line */
 .displayInline{
     display: inline;
+}
+
+.grSmaller {
+    width: 329px;
+}
+
+.grBigger {
+    width: 600px;
+}
+
+#banner {
+    background-image: url("../image/4x4-adventure-automobile-1571783.jpg");
+    background-size: cover;
+    height: 550px;
+    position: relative;
+}
+
+#banner h1 {
+    position: relative;
+    top: 115px;
+    left: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+#banner h3 {
+    position: relative;
+    top: 125px;
+    left: 350px;
+    color: blue;
+    font-weight: bold;
+}
+
+.Helvetica {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
