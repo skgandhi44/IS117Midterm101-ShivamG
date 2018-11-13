@@ -90,7 +90,7 @@ a:hover{
 
 #banner h1 {
     position: relative;
-    top: 115px;
+    top: 135px;
     left: 30px;
     color: white;
     font-weight: bold;
@@ -98,9 +98,9 @@ a:hover{
 
 #banner h3 {
     position: relative;
-    top: 125px;
-    left: 350px;
-    color: blue;
+    top: 155px;
+    left: 320px;
+    color: #1006E2;
     font-weight: bold;
 }
 
@@ -113,4 +113,37 @@ a:hover{
 
 .alignCenter {
     text-align: center;
+}
+
+
+/***************** about.html css start here *****************/
+
+.Font {
+    line-height: 27px;
+    font-size: 16px;
+}
+
+.contentMarginRight {
+    margin-left: 31px;
+    margin-right: 31px;
+}
+
+.bodyText {
+    margin-left: 31px;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.thinBorder {
+    border: 1px black solid;
+}
+
+#sideCardLeft {
+    padding: 18px;
+}
+
+.alignRight {
+    text-align: right;
 }
