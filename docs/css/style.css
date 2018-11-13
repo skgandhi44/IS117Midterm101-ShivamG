@@ -129,7 +129,8 @@ a:hover{
 }
 
 .bodyText {
-    margin-left: 31px;
+    margin-left: 30px;
+    line-height: 20px;
 }
 
 .textCenter {
@@ -146,4 +147,13 @@ a:hover{
 
 .alignRight {
     text-align: right;
+}
+
+.footer {
+    height: 100px;
+    line-height: 100px;
+    background-color: black;
+    color: white;
+    margin-top: 600px;
+    text-align: center;
 }
