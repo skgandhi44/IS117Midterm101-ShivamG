@@ -79,6 +79,15 @@ a:hover{
     position: relative;
 }
 
+/* Opacity for part of the image */
+#opacity{
+    height: 550px;
+    width: 480px;
+    background: black;
+    position: absolute;
+    opacity: 0.6;
+}
+
 #banner h1 {
     position: relative;
     top: 115px;
@@ -93,4 +102,15 @@ a:hover{
     left: 350px;
     color: blue;
     font-weight: bold;
+}
+
+#footer {
+    height: 100px;
+    line-height: 100px;
+    background-color: black;
+    color: white;
+}
+
+.alignCenter {
+    text-align: center;
 }
