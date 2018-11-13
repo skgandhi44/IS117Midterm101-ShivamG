@@ -15,6 +15,23 @@ body{
     height: 135px;
 }
 
+.Helvetica {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.grSmaller {
+    width: 329px;
+}
+
+.grBigger {
+    width: 600px;
+}
+
+.textRight {
+    text-align: right;
+
+}
+
 a {
     text-decoration: none;
 }
@@ -51,12 +68,8 @@ a:hover{
     display: inline;
 }
 
-.grSmaller {
-    width: 329px;
-}
-
-.grBigger {
-    width: 600px;
+.align-Right {
+    text-align: right;
 }
 
 #banner {
@@ -80,8 +93,4 @@ a:hover{
     left: 350px;
     color: blue;
     font-weight: bold;
-}
-
-.Helvetica {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
